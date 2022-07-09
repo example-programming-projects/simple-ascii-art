@@ -33,7 +33,7 @@ Note: Square size = height = width
 #### Inputs
 1. triangle
 2. 10
-3. *
+3. `*`
 
 #### Output
 ```
