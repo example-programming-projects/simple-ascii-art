@@ -10,7 +10,7 @@ It should print the specified shape at the specified size with the specified cha
 
 ## Example IO
 
-### Medium Star 
+### Medium square
 
 #### Inputs
 1. square
